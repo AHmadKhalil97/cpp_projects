@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1493756598 source:d:\ahmad\projects c++\sound\main.cpp
+	<iostream>
+	<windows.h>
+
+1507873181 source:e:\programming\programming\c++\projects c++\sound (codeblocks)\main.cpp
+	<iostream>
+	<windows.h>
+

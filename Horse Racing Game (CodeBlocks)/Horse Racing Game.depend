@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1492950356 source:d:\ahmad\code block\assignment #6\horse racing game\main.cpp
+	<iostream>
+	<windows.h>
+	<time.h>
+	<stdlib.h>
+
+1492950623 source:d:\ahmad\projects c++\horse racing game\main.cpp
+	<iostream>
+	<windows.h>
+	<time.h>
+	<stdlib.h>
+
+1493833420 source:f:\programming\c++\projects c++\horse racing game\main.cpp
+	<iostream>
+	<windows.h>
+	<time.h>
+	<stdlib.h>
+
+1493833420 source:e:\programming\programming\c++\projects c++\horse racing game\main.cpp
+	<iostream>
+	<windows.h>
+	<time.h>
+	<stdlib.h>
+
+1493833420 source:e:\programming\programming\c++\projects c++\horse racing game (codeblocks)\main.cpp
+	<iostream>
+	<windows.h>
+	<time.h>
+	<stdlib.h>
+

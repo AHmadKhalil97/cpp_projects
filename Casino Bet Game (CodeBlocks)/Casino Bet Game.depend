@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1493920461 source:d:\ahmad\projects c++\casino bet game\main.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1493920461 source:f:\programming\c++\projects c++\casino bet game\main.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1493920461 source:e:\programming\programming\c++\projects c++\casino bet game (codeblocks)\main.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
